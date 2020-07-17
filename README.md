@@ -63,13 +63,13 @@ _* Ubuntu 16 and Debian 8 no longer supported since Pterodactyl does not activel
 Using the Pterodactyl Panel installation script:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/vilhelmprytz/pterodactyl-installer/master/install-panel.sh)
+bash <(curl -s https://raw.githubusercontent.com/vilhelmprytz/pterodactyl-installer/pterodactyl-1.0/install-panel.sh)
 ```
 
-Using the Pterodactyl Wings installation script:
+Using the Pterodactyl Daemon installation script:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/vilhelmprytz/pterodactyl-installer/master/install-wings.sh)
+bash <(curl -s https://raw.githubusercontent.com/vilhelmprytz/pterodactyl-installer/pterodactyl-1.0/install-daemon.sh)
 ```
 
 The script will guide you through the install.
